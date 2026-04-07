@@ -1,0 +1,327 @@
+[
+    {
+        "query": "Why is Rachel upset?",
+        "answer": "Ambiguous",
+        "relevant_docs": [
+            285,
+            284,
+            306,
+            236,
+            248
+        ]
+    },
+    {
+        "query": "What mistake did Ross make?",
+        "answer": "Ambiguous",
+        "relevant_docs": [
+            284,
+            285,
+            363,
+            306
+        ]
+    },
+    {
+        "query": "Why is Ross confused?",
+        "answer": "Ambiguous",
+        "relevant_docs": [
+            273
+        ]
+    },
+    {
+        "query": "What does Rachel want from Ross?",
+        "answer": "Ambiguous",
+        "relevant_docs": [
+            305,
+            306,
+            248
+        ]
+    },
+    {
+        "query": "What causes tension between them?",
+        "answer": "Ambiguous",
+        "relevant_docs": [
+            300,
+            301,
+            273,
+            295
+        ]
+    },
+    {
+        "query": "Why does the situation become emotionally complicated?",
+        "answer": "Ambiguous",
+        "relevant_docs": [
+            273,
+            300,
+            301,
+            284,
+            285,
+            295,
+            313
+        ]
+    },
+    {
+        "query": "Why is she angry at him after reading it?",
+        "answer": "List",
+        "relevant_docs": [
+            295,
+            300,
+            301
+        ]
+    },
+    {
+        "query": "Why does he hesitate during the call?",
+        "answer": "Emotional conflict",
+        "relevant_docs": [
+            16,
+            273
+        ]
+    },
+    {
+        "query": "Why does she walk away from him?",
+        "answer": "Conflict",
+        "relevant_docs": [
+            300,
+            301
+        ]
+    },
+    {
+        "query": "What does he try to explain to her?",
+        "answer": "Feelings",
+        "relevant_docs": [
+            293,
+            301,
+            305
+        ]
+    },
+    {
+        "query": "Why does she call him again after hanging up?",
+        "answer": "Closure",
+        "relevant_docs": [
+            16,
+            248
+        ]
+    },
+    {
+        "query": "What does he regret after hurting her?",
+        "answer": "List mistake",
+        "relevant_docs": [
+            305,
+            306
+        ]
+    },
+    {
+        "query": "Rachel appreciates Ross\u2019s list, why?",
+        "answer": "Incorrect premise",
+        "relevant_docs": [
+            300,
+            301,
+            295
+        ]
+    },
+    {
+        "query": "Julie is upset about the list, explain",
+        "answer": "Incorrect premise",
+        "relevant_docs": [
+            283,
+            285,
+            294
+        ]
+    },
+    {
+        "query": "Ross writes a love letter to Rachel, right?",
+        "answer": "No",
+        "relevant_docs": [
+            305,
+            306
+        ]
+    },
+    {
+        "query": "Rachel never calls Ross, true?",
+        "answer": "False",
+        "relevant_docs": [
+            16,
+            248,
+            247
+        ]
+    },
+    {
+        "query": "Ross immediately chooses Rachel after returning, why?",
+        "answer": "False",
+        "relevant_docs": [
+            1,
+            273
+        ]
+    },
+    {
+        "query": "Rachel agrees with Ross\u2019s criticism in the list, why?",
+        "answer": "Incorrect premise",
+        "relevant_docs": [
+            300,
+            301,
+            295
+        ]
+    },
+    {
+        "query": "Ross makes the list to impress Julie, why?",
+        "answer": "Incorrect premise",
+        "relevant_docs": [
+            295,
+            283,
+            285
+        ]
+    },
+    {
+        "query": "Who shares a professional background with Ross?",
+        "answer": "Julie",
+        "relevant_docs": [
+            285
+        ]
+    },
+    {
+        "query": "Who influences Ross\u2019s decisions about Rachel?",
+        "answer": "Friends",
+        "relevant_docs": [
+            295,
+            0
+        ]
+    },
+    {
+        "query": "Who in the group shows emotional indecision?",
+        "answer": "Ross",
+        "relevant_docs": [
+            273
+        ]
+    },
+    {
+        "query": "Who reacts negatively to a comparison being made?",
+        "answer": "Rachel",
+        "relevant_docs": [
+            300,
+            301,
+            295
+        ]
+    },
+    {
+        "query": "Who is involved in both the romantic conflict and the list?",
+        "answer": "Ross",
+        "relevant_docs": [
+            273,
+            285,
+            301
+        ]
+    },
+    {
+        "query": "Who has traits compared critically in a decision process?",
+        "answer": "Rachel",
+        "relevant_docs": [
+            285
+        ]
+    },
+    {
+        "query": "Who ends up being contrasted with Rachel?",
+        "answer": "Julie",
+        "relevant_docs": [
+            285
+        ]
+    },
+    {
+        "query": "What method does Ross use to evaluate two relationships?",
+        "answer": "List",
+        "relevant_docs": [
+            285,
+            294
+        ]
+    },
+    {
+        "query": "What public gesture does Ross attempt to fix things?",
+        "answer": "Radio song",
+        "relevant_docs": [
+            305,
+            306
+        ]
+    },
+    {
+        "query": "What causes Rachel to feel insulted?",
+        "answer": "List criticism",
+        "relevant_docs": [
+            285,
+            300,
+            301
+        ]
+    },
+    {
+        "query": "What realization leads Rachel to emotional conflict?",
+        "answer": "Ross with Julie",
+        "relevant_docs": [
+            273,
+            285
+        ]
+    },
+    {
+        "query": "What comparison leads to relationship damage?",
+        "answer": "List",
+        "relevant_docs": [
+            285,
+            301
+        ]
+    },
+    {
+        "query": "What triggers a breakdown in communication between them?",
+        "answer": "List",
+        "relevant_docs": [
+            300,
+            301,
+            313
+        ]
+    },
+    {
+        "query": "What internal struggle affects Ross\u2019s decisions?",
+        "answer": "Julie vs Rachel",
+        "relevant_docs": [
+            273,
+            285
+        ]
+    },
+    {
+        "query": "ross list rachel why angry",
+        "answer": "List criticism",
+        "relevant_docs": [
+            285,
+            300,
+            301
+        ]
+    },
+    {
+        "query": "julie ross airport surprise who",
+        "answer": "Julie",
+        "relevant_docs": [
+            5,
+            1
+        ]
+    },
+    {
+        "query": "no you hang up meaning why",
+        "answer": "Phone hesitation",
+        "relevant_docs": [
+            16
+        ]
+    },
+    {
+        "query": "closure call cat michael context",
+        "answer": "Closure",
+        "relevant_docs": [
+            248,
+            251
+        ]
+    },
+    {
+        "query": "ankles insult list why issue",
+        "answer": "Ankles criticism",
+        "relevant_docs": [
+            285,
+            294,
+            300,
+            301
+        ]
+    }
+]

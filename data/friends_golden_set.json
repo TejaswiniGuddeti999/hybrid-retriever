@@ -1,0 +1,364 @@
+[
+    {
+        "query": "Who does Ross return with from China?",
+        "answer": "Julie",
+        "relevant_docs": [
+            1,
+            8
+        ]
+    },
+    {
+        "query": "What does Rachel say when she calls and says 'Hi, sweetie'?",
+        "answer": "She says they got disconnected",
+        "relevant_docs": [
+            16
+        ]
+    },
+    {
+        "query": "What does Ross make to compare Rachel and Julie?",
+        "answer": "A list of pros and cons",
+        "relevant_docs": [
+            285
+        ]
+    },
+    {
+        "query": "Why does Rachel get upset after seeing Ross's list?",
+        "answer": "Because he criticizes her on the list",
+        "relevant_docs": [
+            295,
+            306
+        ]
+    },
+    {
+        "query": "What job does Rachel have during this time?",
+        "answer": "Waitress",
+        "relevant_docs": [
+            285,
+            372
+        ]
+    },
+    {
+        "query": "What does Ross say Julie and him have in common?",
+        "answer": "They are both paleontologists",
+        "relevant_docs": [
+            285
+        ]
+    },
+    {
+        "query": "What does Rachel call Ross to say she has achieved?",
+        "answer": "Closure",
+        "relevant_docs": [
+            248
+        ]
+    },
+    {
+        "query": "What name does Rachel suggest for Ross's pet?",
+        "answer": "Michael",
+        "relevant_docs": [
+            248
+        ]
+    },
+    {
+        "query": "What game do Ross and his friends suggest while making the pros and cons list about Rachel and Julie?",
+        "answer": "Doom",
+        "relevant_docs": [
+            285
+        ]
+    },
+    {
+        "query": "What insult does Ross include about Rachel\u2019s ankles?",
+        "answer": "That they are chubby",
+        "relevant_docs": [
+            285,
+            294
+        ]
+    },
+    {
+        "query": "Who tells Ross to forget about Rachel initially?",
+        "answer": "Chandler",
+        "relevant_docs": [
+            0
+        ]
+    },
+    {
+        "query": "What interrupts Ross from confessing his feelings multiple times?",
+        "answer": "Things like cats and Italian guys interrupt him",
+        "relevant_docs": [
+            0
+        ]
+    },
+    {
+        "query": "What does Rachel feel when she sees Ross with Julie?",
+        "answer": "Jealousy",
+        "relevant_docs": [
+            281,
+            236
+        ]
+    },
+    {
+        "query": "What does Ross dedicate to Rachel on the radio?",
+        "answer": "A song",
+        "relevant_docs": [
+            305,
+            306
+        ]
+    },
+    {
+        "query": "What reaction does the radio host have to Ross\u2019s action?",
+        "answer": "Calls it appalling",
+        "relevant_docs": [
+            306
+        ]
+    },
+    {
+        "query": "What does Rachel say about moving on from Ross?",
+        "answer": "She says she is moving on",
+        "relevant_docs": [
+            236,
+            248
+        ]
+    },
+    {
+        "query": "Who sets Rachel up on a date?",
+        "answer": "Monica",
+        "relevant_docs": [
+            236
+        ]
+    },
+    {
+        "query": "What does Rachel say about her jealousy?",
+        "answer": "She decides to opt for sanity",
+        "relevant_docs": [
+            236
+        ]
+    },
+    {
+        "query": "What does Ross struggle between emotionally?",
+        "answer": "Julie and Rachel",
+        "relevant_docs": [
+            273
+        ]
+    },
+    {
+        "query": "What does Rachel think Ross should have done earlier?",
+        "answer": "Told her his feelings",
+        "relevant_docs": [
+            261
+        ]
+    },
+    {
+        "query": "What does Rachel say about Ross being just a guy before?",
+        "answer": "He was just Ross earlier",
+        "relevant_docs": [
+            16,
+            17
+        ]
+    },
+    {
+        "query": "What changes about Ross in Rachel\u2019s perception?",
+        "answer": "He becomes someone she can't have",
+        "relevant_docs": [
+            17
+        ]
+    },
+    {
+        "query": "What does Chandler  reveal while Ross is in China?",
+        "answer": "Ross loves Rachel",
+        "relevant_docs": [
+            0
+        ]
+    },
+    {
+        "query": "What is Rachel\u2019s reaction to that revelation?",
+        "answer": "Shock",
+        "relevant_docs": [
+            0
+        ]
+    },
+    {
+        "query": "What does Rachel do after learning Ross loves her?",
+        "answer": "Goes to the airport",
+        "relevant_docs": [
+            1
+        ]
+    },
+    {
+        "query": "What surprises Rachel at the airport?",
+        "answer": "Ross arrives with Julie",
+        "relevant_docs": [
+            1,
+            5
+        ]
+    },
+    {
+        "query": "What does Rachel say repeatedly during the phone hesitation?",
+        "answer": "No, you hang up",
+        "relevant_docs": [
+            16
+        ]
+    },
+    {
+        "query": "What situation causes the 'No, you hang up' exchange?",
+        "answer": "A phone call where neither wants to hang up",
+        "relevant_docs": [
+            16
+        ]
+    },
+    {
+        "query": "What does Rachel say when calling back?",
+        "answer": "They got disconnected",
+        "relevant_docs": [
+            16,
+            247
+        ]
+    },
+    {
+        "query": "What does Ross hope from Rachel after his mistake?",
+        "answer": "Forgiveness",
+        "relevant_docs": [
+            305
+        ]
+    },
+    {
+        "query": "What does Rachel think about Ross choosing Julie?",
+        "answer": "She is upset and worried",
+        "relevant_docs": [
+            12
+        ]
+    },
+    {
+        "query": "What future does Rachel imagine for Ross and Julie?",
+        "answer": "Marriage and kids",
+        "relevant_docs": [
+            281
+        ]
+    },
+    {
+        "query": "What phrase describes Rachel\u2019s emotional state as a nightmare?",
+        "answer": "Complete nightmare",
+        "relevant_docs": [
+            281
+        ]
+    },
+    {
+        "query": "What does Rachel say about Julie\u2019s personality?",
+        "answer": "She is smart and special",
+        "relevant_docs": [
+            121
+        ]
+    },
+    {
+        "query": "What does Monica advise Rachel to do about Ross?",
+        "answer": "Get over him",
+        "relevant_docs": [
+            64
+        ]
+    },
+    {
+        "query": "What does Rachel sarcastically repeat about getting over Ross?",
+        "answer": "That she just has to get over it",
+        "relevant_docs": [
+            121
+        ]
+    },
+    {
+        "query": "What does Ross say about dreaming of Rachel?",
+        "answer": "He has dreamed about her for 10 years",
+        "relevant_docs": [
+            273
+        ]
+    },
+    {
+        "query": "What confusion does Ross express between Julie and Rachel?",
+        "answer": "He keeps switching between them mentally",
+        "relevant_docs": [
+            273
+        ]
+    },
+    {
+        "query": "What does Rachel say about being okay?",
+        "answer": "She says she is okay and moving on",
+        "relevant_docs": [
+            236,
+            248
+        ]
+    },
+    {
+        "query": "What does Rachel do to convince herself she is over Ross?",
+        "answer": "Calls him and talks about closure",
+        "relevant_docs": [
+            248
+        ]
+    },
+    {
+        "query": "What does Rachel say about naming the cat?",
+        "answer": "Suggests Michael",
+        "relevant_docs": [
+            248
+        ]
+    },
+    {
+        "query": "What does Ross say about Julie compared to Rachel?",
+        "answer": "Julie is similar to him",
+        "relevant_docs": [
+            285,
+            273
+        ]
+    },
+    {
+        "query": "What flaw does Ross mention about Rachel?",
+        "answer": "She can be spoiled",
+        "relevant_docs": [
+            284
+        ]
+    },
+    {
+        "query": "What does Ross say about Rachel\u2019s personality?",
+        "answer": "She can be ditzy",
+        "relevant_docs": [
+            284
+        ]
+    },
+    {
+        "query": "What does Ross say about Rachel\u2019s focus?",
+        "answer": "She cares about her looks",
+        "relevant_docs": [
+            284
+        ]
+    },
+    {
+        "query": "What do the friends think about the list?",
+        "answer": "They think it is a bad idea",
+        "relevant_docs": [
+            301
+        ]
+    },
+    {
+        "query": "Who actually suggested making the list?",
+        "answer": "Chandler",
+        "relevant_docs": [
+            295
+        ]
+    },
+    {
+        "query": "What word is used to insult Ross for the list?",
+        "answer": "Dinkus",
+        "relevant_docs": [
+            295
+        ]
+    },
+    {
+        "query": "What does Rachel feel after discovering the list?",
+        "answer": "Angry and hurt",
+        "relevant_docs": [
+            301
+        ]
+    },
+    {
+        "query": "What does Ross try to do after hurting Rachel?",
+        "answer": "Apologize",
+        "relevant_docs": [
+            305
+        ]
+    }
+]
