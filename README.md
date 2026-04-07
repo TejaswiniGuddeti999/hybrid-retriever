@@ -72,8 +72,8 @@ Experiments were conducted by varying:
 
 ---
 
-## How to Run
+## Dependencies
 
-1. Install dependencies:
+ Install dependencies:
 ```bash
 pip install -r requirements.txt
